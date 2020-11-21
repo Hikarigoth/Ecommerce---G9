@@ -474,12 +474,6 @@ server.get('/:userId', (req,res)=>{
 })
 
 
-
-
-module.exports = server;
-
-
-
 server.post('/login/google', (req, res) => {
   const { tokenId } = req.body;
    client.verifyIdToken({idToken: tokenId, audience:'689080969961-k4i4ccctckdvf369ln044ar325rfd1km.apps.googleusercontent.com'}).then(response => {
@@ -500,7 +494,8 @@ server.post('/login/google', (req, res) => {
         password: response.payload.at_hash,
         role: "User",
         salt: 0,
-        state: "alta"
+        state: "alta",
+        picture: response.payload.picture
       }).then((usercin) => {
           const accessToken = jwt.sign(user, process.env.ACCESS_TOKEN_SECRET)
           res.json({ accessToken: accessToken })

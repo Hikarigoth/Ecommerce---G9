@@ -28,22 +28,22 @@ npm start >> Ecommerce---G9/client/
 ## Previews :cat:
 
 <p align='left'>
-    <img src='https://github.com/Hikarigoth/Ecommerce---G9/GeekToys/Home_GeekToys.png' </img>
+    <img src='https://github.com/Hikarigoth/Ecommerce---G9/blob/master/GeekToys/Home_GeekToys.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/Hikarigoth/Ecommerce---G9/GeekToys/Productos_GeekToys.png' </img>
+    <img src='https://github.com/Hikarigoth/Ecommerce---G9/blob/master/GeekToys/Productos_GeekToys.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/Hikarigoth/Ecommerce---G9/GeekToys/Carrito_GeekToys.png' </img>
+    <img src='https://github.com/Hikarigoth/Ecommerce---G9/blob/master/GeekToys/Carrito_GeekToys.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/Hikarigoth/Ecommerce---G9/GeekToys/Compra_GeekToys.png' </img>
+    <img src='https://github.com/Hikarigoth/Ecommerce---G9/blob/master/GeekToys/Compra_GeekToys.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/Hikarigoth/Ecommerce---G9/GeekToys/Review_GeekToys.png' </img>
+    <img src='https://github.com/Hikarigoth/Ecommerce---G9/blob/master/GeekToys/Review_GeekToys.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/Hikarigoth/Ecommerce---G9/GeekToys/Admin_GeekToys.png' </img>
+    <img src='https://github.com/Hikarigoth/Ecommerce---G9/blob/master/GeekToys/Admin_GeekToys.png' </img>
 </p>
 
 
